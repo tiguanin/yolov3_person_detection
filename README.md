@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-Time-Object-Detection-using-YOLO-v3
 
 >This project implements a real time object detection via webcam and image detection using YOLO algorithm. YOLO is a object detection algorithm which stand for You Only Look Once. I've implemented the algorithm from scratch in PyTorch using pre-trained weights.
@@ -42,3 +43,6 @@ YOLOv3 was published in research paper: [YOLOv3: An Incremental Improvement: Jos
  
  ## References
  1. [Paperspace: YOLO object detector in PyTorch](https://blog.paperspace.com/tag/series-yolo/)
+=======
+# yolov3_person_detection
+>>>>>>> 3cea2c660a0c651274c77d780575a1e2a5c6398f
